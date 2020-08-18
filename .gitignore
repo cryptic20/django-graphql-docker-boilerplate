@@ -1,0 +1,13 @@
+.idea
+__pycache__
+*.pyc
+/venv/
+db.sqlite3
+.env
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+cover/
+coverage-report/
