@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     "corsheaders",
 ]
 
+# edit this to your user model
 AUTH_USER_MODEL = "users.CustomUser"
 
 MIDDLEWARE = [
